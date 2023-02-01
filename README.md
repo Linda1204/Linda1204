@@ -1,7 +1,8 @@
-### Hi, I'm Linda !
+###  Hi, I'm Linda !
 _______________________________________________
+Après avoir effectué une formation de Data Anlyst avec OpenClassRooms, je suis à la recherche d'une entreprise afin d'effectuer un contrat de professionnalisation en Data Science. <br/>
 
-Après avoir effectué une formation de Data Anlyst avec OpenClassRooms, je suis à la recherche d'une entreprise afin d'effectuer un contrat de professionnalisation en Data Science.
+![image](https://user-images.githubusercontent.com/121960652/216131375-0bc49b10-8f74-409d-b043-0b212d87ecf7.png)
 
 
 <!--
