@@ -2,13 +2,10 @@
 _______________________________________________
 Après avoir effectué une formation de Data Anlyst avec OpenClassRooms, je suis à la recherche d'une entreprise afin d'effectuer un contrat de professionnalisation en Data Science. <br/>
 
-<h1>Projets effectués au cours de la formation Data Analyst</h1>
-<h2>Projet sur Tableau</h2>
-![image](https://user-images.githubusercontent.com/121960652/234016884-b4a0e370-d943-4283-a249-d72d1a99a1fd.png)
-
-<br/>
+<h3>Projets effectués au cours de la formation Data Analyst</h3>
+<ul><li><h4>Projet sur Tableau</h4>
 <a href="https://public.tableau.com/views/Etude_eau_potable/Etudesurleaupotable?:language=fr-FR&:display_count=n&:origin=viz_share_link">Accéder au Dashboard créé </a> 
-
+  </li></ul>
 
 <!--
 **Linda1204/Linda1204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
