@@ -8,7 +8,7 @@ Ce projet de création de base de données a pour finalité, la création d'un m
  <a href="https://github.com/Linda1204/Data_Analyst/tree/main/SQL"> Voir le projet </a> 
  </li>
 <li><h4>Projet sur Knime : Egalite-FH </h4>
-La Direction des ressources humaines a souhaité qu’un worklow soit mis en place afin d’automatiser la création d’un rapport diagnostique sur l'égalité femmes-hommes. Cet outil leur permettra de construire une stratégie d’action.
+Une Direction des ressources humaines a souhaité qu’un worklow soit mis en place afin d’automatiser la création d’un rapport diagnostique sur l'égalité femmes-hommes. Cet outil leur permettra de construire une stratégie d’action.
   
  <a href="https://github.com/Linda1204/Data_Analyst/tree/main/Egalite-FH_Knime">Voir le projet </a>
 </li>
