@@ -11,24 +11,32 @@ Ce projet de création de base de données a pour finalité, la création d'un m
  </li>
 <li><h4>Projet sur Knime : Egalite-FH </h4>
 Une Direction des ressources humaines a souhaité qu’un worklow soit mis en place afin d’automatiser la création d’un rapport diagnostique sur l'égalité femmes-hommes. Cet outil leur permettra de construire une stratégie d’action.
-  
+ 
+ ![image](https://github.com/Linda1204/Linda1204/blob/main/Image2.png)
+ 
  <a href="https://github.com/Linda1204/Data_Analyst/tree/main/Egalite-FH_Knime">Voir le projet </a>
 </li>
 <li><h4>Projet sur Tableau : Accès à l'eau potable</h4>
 Ces dashboards sont créés pour une association afin de présenter une vue globale de l’accès à l’eau potable dans le monde. Ceux-ci permettront de choisir le pays à cibler dès qu'un bailleur de fonds aura donné sa réponse sur le domaine d’expertise qu’il souhaite financer.
-
+ 
+ ![image](https://github.com/Linda1204/Linda1204/blob/main/Image3.png)
+ 
 <a href="https://public.tableau.com/views/Etude_eau_potable/Etudesurleaupotable?:language=fr-FR&:display_count=n&:origin=viz_share_link">Accéder au Dashboard créé </a> 
   </li>
 
 <li><h4>Projet d’analyse de ventes – Python</h4>
 Une librairie physique a ouvert depuis 2 ans un site de ventes en ligne. C’est dans ce cadre, que l’entreprise souhaite faire le point après deux ans d’exercice.
-
+ 
+ ![image](https://github.com/Linda1204/Linda1204/blob/main/Image4.png)
+ 
 <a href="https://github.com/Linda1204/Data_Analyst/tree/main/Analyse-ventes_Python">Voir le projet </a>
 </li>
 
 <li><h4>Projet d’analyse prédictive - Python</h4>
 Mise en place d'une modélisation afin de prédire les faux billets selon leurs dimensions.
-
+ 
+ ![image](https://github.com/Linda1204/Linda1204/blob/main/Image5.png)
+ 
 <a href="https://github.com/Linda1204/Data_Analyst/tree/main/Analyse-predictive_Python">Voir le projet </a>
 
 </li>
