@@ -12,7 +12,7 @@ La Direction des ressources humaines a souhaité qu’un worklow soit mis en pla
   
  <a href="https://github.com/Linda1204/Data_Analyst/tree/main/Egalite-FH_Knime">Voir le projet </a>
 </li>
-<li><h4>Projet sur Tableau : Eau-potable</h4>
+<li><h4>Projet sur Tableau : Accès à l'eau potable</h4>
 Ces dashboards sont créés pour une association afin de présenter une vue globale de l’accès à l’eau potable dans le monde. Ceux-ci permettront de choisir le pays à cibler dès qu'un bailleur de fonds aura donné sa réponse sur le domaine d’expertise qu’il souhaite financer.
 
 <a href="https://public.tableau.com/views/Etude_eau_potable/Etudesurleaupotable?:language=fr-FR&:display_count=n&:origin=viz_share_link">Accéder au Dashboard créé </a> 
