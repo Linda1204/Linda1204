@@ -4,8 +4,7 @@ Après avoir effectué une formation de Data Anlyst avec OpenClassRooms, je suis
 <h3>Projets effectués au cours de la formation Data Analyst</h3>
 <ul><li><h4>SQL</h4>
 Ce projet de création de base de données a pour finalité, la création d'un modèle qui permettra de mieux prévoir le prix de vente des biens immobiliers. Les données utilisées sont celles du 1er semestre 2020 et si ce modèle est validé il sera généralisé avec les données des années précédentes.
- 
-<a href=" https://github.com/Linda1204/Data_Analyst/tree/main/SQL "> Voir le projet </a> 
+<a href="https://github.com/Linda1204/Data_Analyst/tree/main/SQL"> Voir le projet </a> 
  </li>
 <li><h4>Projet sur Knime : Egalite-FH </h4>
 La Direction des ressources humaines a souhaité qu’un worklow soit mis en place afin d’automatiser la création d’un rapport diagnostique sur l'égalité femmes-hommes. Cet outil leur permettra de construire une stratégie d’action.
