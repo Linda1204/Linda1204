@@ -4,7 +4,9 @@ Après avoir effectué une formation de Data Anlyst avec OpenClassRooms, je suis
 <h3>Projets effectués au cours de la formation Data Analyst</h3>
 <ul><li><h4>Projet SQL</h4>
 Ce projet de création de base de données a pour finalité, la création d'un modèle qui permettra de mieux prévoir le prix de vente des biens immobiliers. Les données utilisées sont celles du 1er semestre 2020 et si ce modèle est validé il sera généralisé avec les données des années précédentes.
-![image](https://github.com/Linda1204/Linda1204/blob/main/Image1.png)
+
+ ![image](https://github.com/Linda1204/Linda1204/blob/main/Image1.png)
+ 
  <a href="https://github.com/Linda1204/Data_Analyst/tree/main/SQL"> Voir le projet </a> 
  </li>
 <li><h4>Projet sur Knime : Egalite-FH </h4>
