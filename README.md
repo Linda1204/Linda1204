@@ -16,12 +16,13 @@ Une Direction des ressources humaines a souhaité qu’un worklow soit mis en pl
  
  <a href="https://github.com/Linda1204/Data_Analyst/tree/main/Egalite-FH_Knime">Voir le projet </a>
 </li>
-<li><h4>Projet sur Tableau : Accès à l'eau potable</h4>
+<li><h4>Projet sur Tableau : Accès à l'eau potable (Projet réalisé également sur Power BI)</h4>
 Ces dashboards sont créés pour une association afin de présenter une vue globale de l’accès à l’eau potable dans le monde. Ceux-ci permettront de choisir le pays à cibler dès qu'un bailleur de fonds aura donné sa réponse sur le domaine d’expertise qu’il souhaite financer.
  
  ![image](https://github.com/Linda1204/Linda1204/blob/main/Image3.png)
  
-<a href="https://public.tableau.com/views/Etude_eau_potable/Etudesurleaupotable?:language=fr-FR&:display_count=n&:origin=viz_share_link">Accéder au Dashboard créé </a> 
+<a href="https://public.tableau.com/views/Etude_eau_potable/Etudesurleaupotable?:language=fr-FR&:display_count=n&:origin=viz_share_link">Accéder au Dashboard créé avec Tableau</a> 
+ <a href="[https://public.tableau.com/views/Etude_eau_potable/Etudesurleaupotable?:language=fr-FR&:display_count=n&:origin=viz_share_link](https://app.powerbi.com/links/AKdfFU4wPm?ctid=4a8db587-9c2a-4d1e-b7f3-e83b7cf9c3a6&pbi_source=linkShare)">Accéder au Dashboard créé avec Power BI</a> 
   </li>
 
 <li><h4>Projet d’analyse de ventes – Python</h4>
