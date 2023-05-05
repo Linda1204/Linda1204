@@ -21,8 +21,8 @@ Ces dashboards sont créés pour une association afin de présenter une vue glob
  
  ![image](https://github.com/Linda1204/Linda1204/blob/main/Image3.png)
  
-<a href="https://public.tableau.com/views/Etude_eau_potable/Etudesurleaupotable?:language=fr-FR&:display_count=n&:origin=viz_share_link">Accéder au Dashboard créé avec Tableau</a> <br/>
- <a href="https://app.powerbi.com/links/AKdfFU4wPm?ctid=4a8db587-9c2a-4d1e-b7f3-e83b7cf9c3a6&pbi_source=linkShare">Accéder au Dashboard créé avec Power BI</a> 
+<a href="https://public.tableau.com/views/Etude_eau_potable/Etudesurleaupotable?:language=fr-FR&:display_count=n&:origin=viz_share_link">Accéder aux Dashboards créé avec Tableau</a> <br/>
+ <a href="https://app.powerbi.com/links/AKdfFU4wPm?ctid=4a8db587-9c2a-4d1e-b7f3-e83b7cf9c3a6&pbi_source=linkShare">Accéder aux Dashboards créé avec Power BI</a> 
   </li>
 
 <li><h4>Projet d’analyse de ventes – Python</h4>
